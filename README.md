@@ -33,3 +33,7 @@ Then, just follow these steps:
 2. `./publishpost.sh`
 
 And that's it! You're done! Repeat this process whenever you want to make another post
+
+**Notes**:
+1. To delete a post do this in Terminal, `rm pages/<name of the file>.md`
+2. If for some reason, these steps are not working you probably went to the wrong place in your file system, just do `cd ~/website-generator` and try navigation...if you're still having trouble ask Shreyas :)
